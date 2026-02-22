@@ -16,7 +16,50 @@
 - Procesador Central (CPU)
 - Lenguaje de la Máquina
 - Entrada/Salida
-<!--Contenido elaborado en claude.ai-->>
+<!--Contenido elaborado en claude.ai apartir de un libro (PDF) en inglés-->>
+
+
+## Introducción a la computación e Informática
+- Sistemas Computacionales
+- Datos y Análisis
+- Ingeniería de Software
+- Algoritmos y Programación
+- Principios Universales de Programación
+- Programación con Scratch
+- Programación con Python
+- Desarrollo Web
+<!--Contenido elaborado en claude.ai apartir de un libro (PDF) en inglés-->>
+
+
+
+## Introducción a las Ciencias de la Computación e Informática
+- Arquitectura del Computador
+- Algoritmos y Estructuras de Datos
+- Lenguajes de Programación
+- Sistemas Operativos
+- Redes de Computadoras
+- Teoría de la Computación
+- Bases de Datos
+- Compiladores
+- Programación Concurrente
+- Sistemas Distribuidos
+<!--Contenido elaborado en claude.ai apartir de un libro (PDF) en inglés-->>
+
+
+***Notas:***
+- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Introduction to Computer Science
 -
