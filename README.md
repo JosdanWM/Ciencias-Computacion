@@ -5,7 +5,7 @@
   
 ---
 ## Introducción a la Informática
-- Conceptos de Informática ...
+- Conceptos de Informática (DC)...
   <!--DataCamp-->
 - 
 - 
