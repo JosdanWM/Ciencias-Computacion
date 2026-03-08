@@ -9,6 +9,11 @@
 - Instruir a una computadora eficientemente (DC).. 
 - Qué pueden y no pueden hacer computadoras (DC).. 
  <!--DataCamp-->
+ 
+## **Conceptos esenciales de Computación e Informática** (@)..
+- Conceptos esenciales de computación e informática - I (@)..
+- Conceptos esenciales de computación e informática - II (@)..
+- Conceptos esenciales de computación e informática - III (@)..
 
 ## **Introducción de las Ciencias de la Computación** ....
 - Computación Básica (Pz)...
@@ -76,6 +81,8 @@
 
 ---
 ### ***Notas***:
+- 
+- @: anaxia
 - *....: En proceso*
 - *#: Repaso teórico completado*
 - *##: Repaso práctico completado*
