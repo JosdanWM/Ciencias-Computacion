@@ -6,14 +6,14 @@
 ---
 ## **Conceptos de Informática**..
 - Computadoras (DC) #
-- Instruir a una computadora eficientemente (DC).. 
-- Qué pueden y no pueden hacer computadoras (DC).. 
+- Instruir a una Computadora Eficientemente (DC).. 
+- Qué pueden y no pueden hacer Computadoras (DC).. 
  <!--DataCamp-->
  
-## **Conceptos esenciales de Computación e Informática** ..
-- Conceptos esenciales de computación e informática - I (anaxia)..
-- Conceptos esenciales de computación e informática - II (anaxia)..
-- Conceptos esenciales de computación e informática - III (anaxia)..
+## **Conceptos Esenciales de Computación e Informática** ..
+- Conceptos Esenciales de Computación e Informática - I (anaxia)..
+- Conceptos Esenciales de Computación e Informática - II (anaxia)..
+- Conceptos Esenciales de Computación e Informática - III (anaxia)..
 
 ## **Glosario Bilingüe de Sistemas Operativos**
 - Glosario Bilingüe del Sistema Operativo Windows (anaxia)....
